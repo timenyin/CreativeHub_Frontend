@@ -1,0 +1,47 @@
+.loader {
+	
+    display:block !important;
+    
+    cursor:wait !important;
+    
+    position:fixed !important;
+    
+    z-index:1000000000000000000000000000000000000000 !important;
+    
+    height: 400px;
+     width: 500px;
+
+     background-image:url(../images/loading.gif) !important;
+      
+    background-color:#666;
+    
+    opacity:0.4;
+    
+    background-repeat:no-repeat;
+    
+    background-position:center;
+    
+    left:0;
+    
+    bottom:0;
+    
+    right:0;
+    
+    top:0;
+      
+    }
+
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: var(--bs-nav-pills-link-active-color);
+    background-color: #d6293e;
+}
+
+
+.alert-wrapper {
+    position: relative;
+    z-index: 10000000000000000000000000; /* Ensure it's on top */
+}
+
+ 
