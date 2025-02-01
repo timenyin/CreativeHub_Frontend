@@ -59,13 +59,17 @@
                             <li> <a class="dropdown-item" href="checkout.php">Checkout</a></li>
 
                             <li> <a class="dropdown-item" href="search.php">Search</a></li>
-                            <li> <a class="dropdown-item" href="Sign-in.php">Sign-in</a></li>
+                            <li> <a class="dropdown-item"
+                                    href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/sign-in.php">Sign-in</a>
+                            </li>
                             <li> <a class="dropdown-item" href="sign-up.php">Sign-up</a></li>
                             <li> <a class="dropdown-item" href="forgot-password.php">Forgot Password</a></li>
                             <li> <a class="dropdown-item" href="change_pass.php">New Password</a></li>
 
                             <li> <a class="dropdown-item" href="blog.php">Blog</a></li>
-                            <li> <a class="dropdown-item" href="single-blog">Single Blog</a></li>
+                            <li> <a class="dropdown-item"
+                                    href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/single-blog.php">Single
+                                    Blog</a></li>
                             <li> <a class="dropdown-item" href="coming-soon.html">Coming Soon</a></li>
                         </ul>
                     </li>
@@ -162,7 +166,8 @@
                                         <h2 class="mb-0"><i class="fa-solid fa-handshake text-warning"></i>
                                         </h2>
                                         <div class="ms-2">
-                                            <a class="stretched-link h6 mb-0" href="partnerships.php">CreativeHub
+                                            <a class="stretched-link h6 mb-0"
+                                                href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/Partnerships.php">CreativeHub
                                                 Partnerships</a>
                                             <p class="mb-0 small">Ideal for you and the top freelance marketplace for
                                                 digital services worldwide.</p>

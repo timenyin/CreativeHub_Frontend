@@ -346,7 +346,9 @@ Page content START -->
                                     <div class="row g-3">
                                         <!-- Image -->
                                         <div class="col-sm-4">
-                                            <img class="rounded" src="assets/images/courses/4by3/08.jpg" alt="">
+                                            <img class="rounded"
+                                                src="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/assets/images/courses/4by3/08.jpg"
+                                                alt="">
                                         </div>
                                         <!-- Info -->
                                         <div class="col-sm-8">

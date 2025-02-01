@@ -18,13 +18,21 @@ Footer START -->
                  </p>
                  <!-- Social media icon -->
                  <ul class="list-inline mb-0 mt-3">
-                     <li class="list-inline-item"> <a class="btn btn-white btn-sm shadow px-2 text-instagram" target="_blank" href="https://www.instagram.com/creativehubsocials?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fab fa-fw fa-instagram"></i></a> </li>
+                     <li class="list-inline-item"> <a class="btn btn-white btn-sm shadow px-2 text-instagram"
+                             target="_blank"
+                             href="https://www.instagram.com/creativehubsocials?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i
+                                 class="fab fa-fw fa-instagram"></i></a> </li>
 
-                     <li class="list-inline-item"> <a class="btn btn-white btn-sm shadow px-2 text-twitter" target="_blank" href="https://twitter.com/AtCreativeHub"><i class="bi bi-twitter-x text-dark"></i></a> </li>
+                     <li class="list-inline-item"> <a class="btn btn-white btn-sm shadow px-2 text-twitter"
+                             target="_blank" href="https://twitter.com/AtCreativeHub"><i
+                                 class="bi bi-twitter-x text-dark"></i></a> </li>
 
-                     <li class="list-inline-item"> <a class="btn btn-white btn-sm shadow px-2 text-linkedin" target="_blank" href="https://www.linkedin.com/in/creative-hub-1ab89b2bb/"><i class="fab fa-fw fa-linkedin-in"></i></a> </li>
+                     <li class="list-inline-item"> <a class="btn btn-white btn-sm shadow px-2 text-linkedin"
+                             target="_blank" href="https://www.linkedin.com/in/creative-hub-1ab89b2bb/"><i
+                                 class="fab fa-fw fa-linkedin-in"></i></a> </li>
 
-                     <li class="list-inline-item"> <a class="btn btn-white btn-sm shadow px-2 text-facebook" target="_blank" href="mailto:creativehubmessage@gmail.com"><i class="bi bi-google"></i></a>
+                     <li class="list-inline-item"> <a class="btn btn-white btn-sm shadow px-2 text-facebook"
+                             target="_blank" href="mailto:creativehubmessage@gmail.com"><i class="bi bi-google"></i></a>
                      </li>
                  </ul>
              </div>
@@ -94,18 +102,20 @@ Footer START -->
                      <li class="nav-item"><a class="nav-link" href="creativehub-certified.php">CreativeHub
                              Certified</a>
                      </li>
-                     <li class="nav-item"><a class="nav-link" href="partnerships.php">CreativeHub Partnerships</a></li>
+                     <li class="nav-item"><a class="nav-link" href="Partnerships.php">CreativeHub Partnerships</a></li>
                  </ul>
 
                  <div class="row g-2 mt-2">
                      <!-- Google play store button -->
                      <div class="col-6 col-sm-4 col-md-3 col-lg-6">
-                         <a target="_blank" href="coming-soon.html"> <img src="assets/images/client/google-play.svg" alt="google-play">
+                         <a target="_blank" href="coming-soon.html"> <img src="assets/images/client/google-play.svg"
+                                 alt="google-play">
                          </a>
                      </div>
                      <!-- App store button -->
                      <div class="col-6 col-sm-4 col-md-3 col-lg-6">
-                         <a target="_blank" href="coming-soon.html"> <img src="assets/images/client/app-store.svg" alt="app-store">
+                         <a target="_blank" href="coming-soon.html"> <img src="assets/images/client/app-store.svg"
+                                 alt="app-store">
                          </a>
                      </div>
                  </div> <!-- Row END -->
@@ -125,10 +135,10 @@ Footer START -->
                          International Ltd. <span id="year"></span>
                          All Rights Reserved
                          <script>
-                             document.addEventListener("DOMContentLoaded", function() {
-                                 var yearSpan = document.getElementById("year");
-                                 yearSpan.textContent = new Date().getFullYear();
-                             });
+                         document.addEventListener("DOMContentLoaded", function() {
+                             var yearSpan = document.getElementById("year");
+                             yearSpan.textContent = new Date().getFullYear();
+                         });
                          </script>
                      </div>
                      <!-- copyright links-->
@@ -167,138 +177,138 @@ Footer END -->
 
  <!-- to your google Translate js part -->
  <script type="text/javascript">
-     function googleTranslateElementInit() {
-         new google.translate.TranslateElement({
-             pageLanguage: 'en',
-             includedLanguages: "en,es,fr,de,ar,zh-CN,ru,ja,pt,hi",
-             layout: google.translate.TranslateElement.InlineLayout.SIMPLE
-         }, 'google_translate_element');
-     }
+function googleTranslateElementInit() {
+    new google.translate.TranslateElement({
+        pageLanguage: 'en',
+        includedLanguages: "en,es,fr,de,ar,zh-CN,ru,ja,pt,hi",
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+    }, 'google_translate_element');
+}
  </script>
 
  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
  </script>
 
  <script>
-     $(document).ready(function() {
-         $('#google_translate_element').bind('DOMNodeInserted', function(event) {
-             $('.goog-te-menu-value span:first').html('LANGUAGE');
-             $('.goog-te-menu-frame.skiptranslate').load(function() {
-                 setTimeout(function() {
-                     $('.goog-te-menu-frame.skiptranslate').contents().find(
-                         '.goog-te-menu2-item-selected .text').html('LANGUAGE');
-                 }, 100);
-             });
-         });
-     });
+$(document).ready(function() {
+    $('#google_translate_element').bind('DOMNodeInserted', function(event) {
+        $('.goog-te-menu-value span:first').html('LANGUAGE');
+        $('.goog-te-menu-frame.skiptranslate').load(function() {
+            setTimeout(function() {
+                $('.goog-te-menu-frame.skiptranslate').contents().find(
+                    '.goog-te-menu2-item-selected .text').html('LANGUAGE');
+            }, 100);
+        });
+    });
+});
  </script>
 
  <!-- ---=============ribbon =============== -->
  <script>
-     // Add the shake class to the ribbon every 10 seconds
-     // setInterval(function() {
-     //     var ribbon = document.getElementById('ribbon');
-     //     ribbon.classList.toggle('shake');
-     // }, 10000); // 10 seconds in milliseconds   
+// Add the shake class to the ribbon every 10 seconds
+// setInterval(function() {
+//     var ribbon = document.getElementById('ribbon');
+//     ribbon.classList.toggle('shake');
+// }, 10000); // 10 seconds in milliseconds   
 
 
-     // Add the shake class to all ribbons every 10 seconds
-     setInterval(function() {
-         var ribbons = document.querySelectorAll('.ribbon');
-         ribbons.forEach(function(ribbon) {
-             ribbon.classList.toggle('shake');
-         });
-     }, 10000); // 10 seconds in milliseconds
+// Add the shake class to all ribbons every 10 seconds
+setInterval(function() {
+    var ribbons = document.querySelectorAll('.ribbon');
+    ribbons.forEach(function(ribbon) {
+        ribbon.classList.toggle('shake');
+    });
+}, 10000); // 10 seconds in milliseconds
  </script>
 
  <script>
-     // Function to handle search
-     function handleSearch() {
-         // Get the search query
-         var searchQuery = document.getElementById('searchInput').value.trim();
+// Function to handle search
+function handleSearch() {
+    // Get the search query
+    var searchQuery = document.getElementById('searchInput').value.trim();
 
-         // Update recent searches list
-         updateRecentSearches(searchQuery);
+    // Update recent searches list
+    updateRecentSearches(searchQuery);
 
-         // You can add further logic here to handle the search
+    // You can add further logic here to handle the search
 
-         // Prevent form submission
-         return false;
-     }
+    // Prevent form submission
+    return false;
+}
 
-     // Function to handle recent search click
-     function handleRecentSearchClick(query) {
-         document.getElementById('searchInput').value = query;
-     }
+// Function to handle recent search click
+function handleRecentSearchClick(query) {
+    document.getElementById('searchInput').value = query;
+}
 
-     // Function to update recent searches list
-     function updateRecentSearches(searchQuery) {
-         // Get existing searches from local storage
-         var searches = JSON.parse(localStorage.getItem('searches')) || [];
+// Function to update recent searches list
+function updateRecentSearches(searchQuery) {
+    // Get existing searches from local storage
+    var searches = JSON.parse(localStorage.getItem('searches')) || [];
 
-         // Add new search to the beginning of the array
-         searches.unshift(searchQuery);
+    // Add new search to the beginning of the array
+    searches.unshift(searchQuery);
 
-         // Limit the number of searches to display (e.g., 5)
-         var maxSearches = 5;
-         searches = searches.slice(0, maxSearches);
+    // Limit the number of searches to display (e.g., 5)
+    var maxSearches = 5;
+    searches = searches.slice(0, maxSearches);
 
-         // Save updated searches to local storage
-         localStorage.setItem('searches', JSON.stringify(searches));
+    // Save updated searches to local storage
+    localStorage.setItem('searches', JSON.stringify(searches));
 
-         // Update the recent searches list in the DOM
-         var recentSearchList = document.getElementById('recentSearchList');
-         recentSearchList.innerHTML = ''; // Clear existing list
+    // Update the recent searches list in the DOM
+    var recentSearchList = document.getElementById('recentSearchList');
+    recentSearchList.innerHTML = ''; // Clear existing list
 
-         searches.forEach(function(query) {
-             var listItem = document.createElement('li');
-             listItem.className = 'list-group-item text-primary-hover text-truncate';
-             var iconContainer = document.createElement('div');
-             iconContainer.className = 'd-flex justify-content-between align-items-center';
-             var link = document.createElement('a');
-             link.href = '#';
-             link.className = 'text-body me-2';
-             link.innerHTML = '<i class="far fa-clock me-1"></i>' + query;
-             // Add click event listener to recent search item
-             link.addEventListener('click', function() {
-                 handleRecentSearchClick(query);
-             });
-             iconContainer.appendChild(link);
+    searches.forEach(function(query) {
+        var listItem = document.createElement('li');
+        listItem.className = 'list-group-item text-primary-hover text-truncate';
+        var iconContainer = document.createElement('div');
+        iconContainer.className = 'd-flex justify-content-between align-items-center';
+        var link = document.createElement('a');
+        link.href = '#';
+        link.className = 'text-body me-2';
+        link.innerHTML = '<i class="far fa-clock me-1"></i>' + query;
+        // Add click event listener to recent search item
+        link.addEventListener('click', function() {
+            handleRecentSearchClick(query);
+        });
+        iconContainer.appendChild(link);
 
-             // Add close button (X icon)
-             var closeButton = document.createElement('span');
-             closeButton.className = 'text-danger';
-             closeButton.style.cursor = 'pointer';
-             closeButton.innerHTML = '<i class="bi bi-x-lg"></i>';
-             closeButton.addEventListener('click', function() {
-                 removeSearch(query, listItem);
-             });
-             iconContainer.appendChild(closeButton);
+        // Add close button (X icon)
+        var closeButton = document.createElement('span');
+        closeButton.className = 'text-danger';
+        closeButton.style.cursor = 'pointer';
+        closeButton.innerHTML = '<i class="bi bi-x-lg"></i>';
+        closeButton.addEventListener('click', function() {
+            removeSearch(query, listItem);
+        });
+        iconContainer.appendChild(closeButton);
 
-             listItem.appendChild(iconContainer);
-             recentSearchList.appendChild(listItem);
-         });
-     }
+        listItem.appendChild(iconContainer);
+        recentSearchList.appendChild(listItem);
+    });
+}
 
-     // Function to remove search from recent searches
-     function removeSearch(query, listItem) {
-         var searches = JSON.parse(localStorage.getItem('searches')) || [];
-         var index = searches.indexOf(query);
-         if (index !== -1) {
-             searches.splice(index, 1);
-             localStorage.setItem('searches', JSON.stringify(searches));
-             listItem.remove();
-         }
-     }
+// Function to remove search from recent searches
+function removeSearch(query, listItem) {
+    var searches = JSON.parse(localStorage.getItem('searches')) || [];
+    var index = searches.indexOf(query);
+    if (index !== -1) {
+        searches.splice(index, 1);
+        localStorage.setItem('searches', JSON.stringify(searches));
+        listItem.remove();
+    }
+}
 
-     // Function to clear search history
-     function clearHistory() {
-         localStorage.removeItem('searches');
-         updateRecentSearches('');
-     }
+// Function to clear search history
+function clearHistory() {
+    localStorage.removeItem('searches');
+    updateRecentSearches('');
+}
 
-     // Load recent searches on page load
-     window.onload = function() {
-         updateRecentSearches('');
-     };
+// Load recent searches on page load
+window.onload = function() {
+    updateRecentSearches('');
+};
  </script>

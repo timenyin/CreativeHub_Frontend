@@ -35,9 +35,11 @@
                         <ul class="dropdown-menu" aria-labelledby="earningDropdown">
                             <li><a class="dropdown-item" href="selling_orders.php"><i
                                         class="text-warning bi bi-border-style fa-fw me-2"></i>Order</a></li>
-                            <li><a class="dropdown-item" href="../proposals/view_proposals.php"><i
+                            <li><a class="dropdown-item"
+                                    href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/proposals/view_proposals.php"><i
                                         class="text-warning bi bi-yelp fa-fw me-2"></i>View Proposal</a></li>
-                            <li><a class="dropdown-item" href="../requests/buyer_requests.php"><i
+                            <li><a class="dropdown-item"
+                                    href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/requests/buyer_requests.php"><i
                                         class="text-warning bi bi-envelope-heart fa-fw me-2"></i>Request</a></li>
                             <li><a class="dropdown-item" href="revenue.php"><i
                                         class="text-warning bi bi-coin fa-fw me-2"></i>Revenue</a></li>
@@ -67,9 +69,11 @@
                             <i class="text-success bi bi-envelope-heart fa-fw me-2"></i>Request
                         </div>
                         <ul class="dropdown-menu" aria-labelledby="earningDropdown">
-                            <li><a class="dropdown-item" href="../requests/post_request.php"><i
+                            <li><a class="dropdown-item"
+                                    href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/requests/post_request.php"><i
                                         class="text-success bi bi-send-plus fa-fw me-2"></i>Post Request</a></li>
-                            <li><a class="dropdown-item" href="../requests/manage_requests.php"><i
+                            <li><a class="dropdown-item"
+                                    href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/requests/manage_requests.php"><i
                                         class="text-success bi bi-kanban fa-fw me-2"></i>Manage Request</a></li>
                         </ul>
                     </div>
@@ -81,18 +85,22 @@
                             <i class="text-orange bi bi-toggles fa-fw me-2"></i>Negotiations
                         </div>
                         <ul class="dropdown-menu" aria-labelledby="earningDropdown">
-                            <li><a class="dropdown-item" href="../manage_contacts.php?my_buyers">
+                            <li><a class="dropdown-item"
+                                    href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/manage_contacts.php?my_buyers">
                                     <i class="text-orange fa-solid fa-people-carry-box pe-1"></i>My
                                     Buyers</a></li>
-                            <li><a class="dropdown-item" href="../manage_contacts.php?my_sellers"><i
+                            <li><a class="dropdown-item"
+                                    href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/manage_contacts.php?my_sellers"><i
                                         class="text-orange fa-solid fa-people-group pe-1"></i>My Sellers</a></li>
                         </ul>
                     </div>
                     <a class="list-group-item" href="my_referrals.php"><i
                             class="text-purple bi bi-people-fill fa-fw me-2"></i>My Referrals</a>
-                    <a class="list-group-item" href="../conversations/inbox.php"><i
+                    <a class="list-group-item"
+                        href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/conversations/inbox.php"><i
                             class="text-success opacity-10 bi bi-chat-text-fill fa-fw me-2"></i>Conversation</a>
-                    <a class="list-group-item" href="../user.php"><i
+                    <a class="list-group-item"
+                        href="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/user.php"><i
                             class="text-info opacity-10 bi bi-person-lines-fill fa-fw me-2"></i>My
                         Profile</a>
                     <!-- Dropdown for Settings -->

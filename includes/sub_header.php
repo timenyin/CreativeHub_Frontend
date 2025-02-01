@@ -11,9 +11,7 @@
               <!-- Logo END -->
 
               <!-- Responsive navbar toggler -->
-              <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse"
-                  data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false"
-                  aria-label="Toggle navigation">
+              <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                   <span class="navbar-toggler-animation">
                       <span></span>
                       <span></span>
@@ -28,11 +26,8 @@
                       <div class="nav my-3 my-xl-0 px-4 flex-nowrap align-items-center">
                           <div class="nav-item w-100">
                               <form class="rounded position-relative">
-                                  <input class="form-control pe-5 bg-secondary bg-opacity-10 border-0" type="search"
-                                      placeholder="Search" aria-label="Search">
-                                  <button
-                                      class="btn btn-link bg-transparent px-2 py-0 position-absolute top-50 end-0 translate-middle-y"
-                                      type="submit"><i class="fas fa-search fs-6 text-primary"></i></button>
+                                  <input class="form-control pe-5 bg-secondary bg-opacity-10 border-0" type="search" placeholder="Search" aria-label="Search">
+                                  <button class="btn btn-link bg-transparent px-2 py-0 position-absolute top-50 end-0 translate-middle-y" type="submit"><i class="fas fa-search fs-6 text-primary"></i></button>
                               </form>
                           </div>
                       </div>
@@ -42,7 +37,7 @@
                   <!-- Nav Main menu START -->
                   <ul class="navbar-nav navbar-nav-scroll ms-auto">
                       <!-- Nav item 1 Partnerships -->
-                      <li class="nav-item dropdown"><a class="nav-link" href="partnerships.php">Become a Partner</a>
+                      <li class="nav-item dropdown"><a class="nav-link" href="Partnerships.php">Become a Partner</a>
                       </li>
 
                       <!-- Nav item 2 CreativeHub Pro -->

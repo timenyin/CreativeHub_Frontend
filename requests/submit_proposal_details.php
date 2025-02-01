@@ -164,7 +164,8 @@
                                     <div class="hstack gap-2 mb-2 mb-xl-0">
                                         <!-- Avatar -->
                                         <div class="avatar flex-shrink-0">
-                                            <img class="avatar-img rounded-circle" src="../user_images/02.jpg"
+                                            <img class="avatar-img rounded-circle"
+                                                src="https://rexoxinterserv.com/wp-admin/Sensetive/CreativeHub_Frontend/user_images/02.jpg"
                                                 alt="avatar">
                                         </div>
                                         <!-- Info -->
